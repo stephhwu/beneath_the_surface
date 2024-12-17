@@ -86,7 +86,7 @@ h3 {
 
 .down-arrow {
     position: absolute;
-    top: calc(290vh - 10px);
+    top: 280%;
     left: calc(50% - 14px);
     width: 0;
     height: 30px;
